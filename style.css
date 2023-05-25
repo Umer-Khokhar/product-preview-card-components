@@ -65,7 +65,7 @@ body {
     display: flex;
     gap: 1rem;
     align-items: center;
-    margin: 1rem 0;
+    margin: .5rem 0;
 }
 .right > .price > h1 {
     color: hsl(158, 36%, 37%);
